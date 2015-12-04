@@ -4,4 +4,6 @@ public class sudoku
     {
         int[][] ii = new int[9][9];
     }
+
+    {}
 }
